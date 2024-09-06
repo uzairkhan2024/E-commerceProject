@@ -10,7 +10,7 @@ ul{
     background-color: #f9f9f9; /* Customize the background color */
     color: #333; /* Customize the text color */
     text-align: center;
-    z-index: 1; /* Ensure it's above other elements */
+    z-index: 2; /* Ensure it's above other elements */
 }
 .footer ul{
     list-style-type: none;
