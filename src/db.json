@@ -9,13 +9,13 @@
   ],
   "Products": [
     {
-      "id": "271f",
       "name": "Hp Laptop",
       "Price": "69999",
       "Color": "Gray",
       "Category": "Laptop",
       "Description": "An Hp Product",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNPkIzbCliA21Ho9XE-gmP2mHiHwubtJjlww&s"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNPkIzbCliA21Ho9XE-gmP2mHiHwubtJjlww&s",
+      "id": "271f"
     },
     {
       "id": "e997",
@@ -90,14 +90,5 @@
     }
   ],
   "cart": [],
-  "orders": [
-    {
-      "id": "71fc",
-      "email": "Leo.msua2703@gmail.com",
-      "address": "House # 17A/1 street # 47 Shamnagar Chauburji Lahore",
-      "contact": "03224098007",
-      "totalPrice": 70099,
-      "userId": "84f2"
-    }
-  ]
+  "orders": []
 }
